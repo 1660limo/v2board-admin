@@ -7,17 +7,17 @@
 安装依赖
 
 ```bash
-$ yarn
+ yarn
 ```
 
 本地开发调试
 
 ```bash
-$ yarn start
+yarn start
 ```
 
 构建
 
 ```bash
-$ yarn build
+yarn build
 ```
